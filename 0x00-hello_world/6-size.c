@@ -1,16 +1,8 @@
-
-
 #include <stdio.h>
-
 /**
- *
- *  * main - Prints sized of characters
- *
- *   *
- *
+ *  * main - Prints sized of character
  *    *Return: Always 0 (success)
- *
- *     */
+ */
 
 int main(void)
 

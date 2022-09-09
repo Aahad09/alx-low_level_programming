@@ -7,7 +7,8 @@
  * Return: Alway 0 (Success)
  */
 
-int main(void){
+int main(void)
+{
 int n;
 int last_digit;
 

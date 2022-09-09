@@ -10,8 +10,8 @@ int main(void)
 int i;
 int ch;
 
-ch=97;
-i=0;
+ch = 97;
+i = 0;
 while (i < 26)
 {
 putchar(ch);
